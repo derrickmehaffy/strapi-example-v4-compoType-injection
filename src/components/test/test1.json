@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_test_test1s",
+  "info": {
+    "displayName": "test1",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "test2": {
+      "displayName": "test2",
+      "type": "component",
+      "repeatable": false,
+      "component": "test.test2"
+    },
+    "string": {
+      "type": "string"
+    }
+  }
+}

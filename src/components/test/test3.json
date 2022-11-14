@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_test_test3s",
+  "info": {
+    "displayName": "test3",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "string": {
+      "type": "string"
+    }
+  }
+}

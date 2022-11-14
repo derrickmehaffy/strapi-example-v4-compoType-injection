@@ -1,0 +1,38 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tests",
+  "info": {
+    "singularName": "test",
+    "pluralName": "tests",
+    "displayName": "test",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "string": {
+      "type": "string"
+    },
+    "test1": {
+      "displayName": "test1",
+      "type": "component",
+      "repeatable": true,
+      "component": "test.test1"
+    },
+    "test3": {
+      "displayName": "test3",
+      "type": "component",
+      "repeatable": false,
+      "component": "test.test3"
+    },
+    "testDZ": {
+      "type": "dynamiczone",
+      "components": [
+        "test.test-dz-compo",
+        "test.test-dz-compo2"
+      ]
+    }
+  }
+}

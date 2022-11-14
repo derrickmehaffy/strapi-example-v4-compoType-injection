@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_test_test_dz_compo2s",
+  "info": {
+    "displayName": "testDZCompo2",
+    "icon": "align-center"
+  },
+  "options": {},
+  "attributes": {
+    "string": {
+      "type": "string"
+    }
+  }
+}
